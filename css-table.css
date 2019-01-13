@@ -1,0 +1,16 @@
+table {
+border-collapse: collapse;
+}
+th {
+font-weight: bold;
+padding: 4px 5px;
+background-color: #acf;
+text-align: center;
+border-bottom: 1px solid #cef;
+max-width: 500px;
+overflow: scroll;
+}
+td {padding: 4px 5px;
+max-width: 500px;
+overflow: scroll;
+ }
