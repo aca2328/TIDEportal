@@ -1,0 +1,1 @@
+https://platform.activetrust.net:8000/api/data/threats?type=host&profile=IID&class=MalwareC2&class=MalwareDownload&class=ExploitKit&class=Phishing&period=24h&rlimit=50000&data_format=json
